@@ -20,7 +20,7 @@ This project is a simple, fast, and modern web application that allows users to 
 Setting up and running this project locally is very straightforward:
 
 1.  Clone this repository to your local machine:
-    ```bash
+    ```python
     git clone [YOUR_REPO_URL]
     ```
 2.  Navigate to the project folder.
