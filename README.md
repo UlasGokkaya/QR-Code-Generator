@@ -28,3 +28,9 @@ Setting up and running this project locally is very straightforward:
 
 Alternatively, you can use the live version hosted via GitHub Pages (if enabled).
 
+## 🤝 Contribution
+
+We welcome contributions! If you have suggestions for new features or bug fixes, please feel free to submit a Pull Request (PR).
+
+---
+
